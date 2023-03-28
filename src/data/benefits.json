@@ -1,0 +1,47 @@
+{
+  "page_title": "Government assistance when approaching retirement",
+  "content": [
+    {
+      "id": 1,
+      "title": "Retirement Benefits for Child with Disabilities",
+      "headline": "Retirement Benefits for Child with Disabilities",
+      "source": {
+        "name": "Social Security Administration",
+        "link": "https://www.ssa.gov/benefits/retirement/"
+      },
+      "summary": "Social Security is part of the retirement plan for almost every American worker. It may provide income support for adult children with disabilities who are unable to work and whose parents receive retirement benefits. Complete just one application to be considered for all benefits administered by the Social Security Administration.",
+      "eligibility": {
+        "label": "You are at least 18 years old.",
+        "acceptableValues": "not married"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Retirement Benefits for Child",
+      "headline": "Retirement Benefits for Child",
+      "source": {
+        "name": "Social Security Administration",
+        "link": "https://www.ssa.gov/benefits/retirement/"
+      },
+      "summary": "Social Security is part of the retirement plan for almost every American worker. It may provide income support for minor children of parents who receive retirement benefits. Complete just one application to be considered for all benefits administered by the Social Security Administration.",
+      "eligibility": {
+        "label": "You are under 18 years old (under 19 years old if you are a full-time student in an elementary or secondary school).",
+        "acceptableValues": "not married"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Retirement Benefits for Mothers/Fathers",
+      "headline": "Retirement Benefits for Mothers/Fathers",
+      "source": {
+        "name": "Social Security Administration",
+        "link": "https://www.ssa.gov/benefits/retirement/"
+      },
+      "summary": "Social Security is part of the retirement plan for almost every American worker. It provides replacement income for qualified retirees and their families. Complete just one application to be considered for all benefits administered by the Social Security Administration.",
+      "eligibility": {
+        "acceptableValues": "not married",
+        "acceptableValues1": "divorced"
+      }
+    }
+  ]
+}
