@@ -1,0 +1,14 @@
+{
+  "screen_1": {
+    "1": { "id": "1", "name": "Alice", "age": 30 },
+    "2": { "id": "2", "name": "Bob", "age": 25 }
+  },
+  "screen_2": {
+    "101": {
+      "id": "101",
+      "authorId": "1",
+      "title": "My first post",
+      "content": "Hello, world!"
+    }
+  }
+}

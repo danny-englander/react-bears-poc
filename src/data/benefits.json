@@ -43,5 +43,6 @@
         "acceptableValues1": "divorced"
       }
     }
-  ]
+  ],
+  "birth_date": "Your (the applicant's) date of birth is"
 }
