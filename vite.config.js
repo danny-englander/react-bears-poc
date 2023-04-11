@@ -22,7 +22,10 @@ export default defineConfig({
         // Copy the built JS file to the new path.
         await fse.copy(originalPath, newPath);
         // Rename the copied JS file.
-        await fse.rename(newPath, `${outputOptions.dir}/assets/bears.js`);
+        await fse.rename(
+          newPath,
+          `${outputOptions.dir}/assets/drop-app.min.js`
+        );
       },
     },
   ],
