@@ -33,3 +33,12 @@ drop_app:
 By using [Redux Toolkit](https://redux-toolkit.js.org/) instead of Vanilla Redux, it is generally considered easier to implement. Redux Toolkit is a higher-level abstraction and a set of utilities built on top of Redux. It aims to simplify the process of working with Redux by providing a more straightforward approach to managing state and reducing boilerplate code.
 
 Imagine a custom Drupal module that outputs a huge amount of data via a contextual JSON API endpoint where the page design calls for several screens of the app, i.e. a multi-step form without a page reload, especially in cases where you will have a lot of conditional rendering based on form items selected in the earlier parts of the form screens.
+
+## Get started with this project
+
+- Install NVM
+- `nvm use`
+- `npm i`
+- `npm run dev`
+
+See `package.json` for other options such as build, etc.
